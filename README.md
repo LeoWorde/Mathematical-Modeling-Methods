@@ -1,2 +1,2 @@
-# Monte-Carlo-simulation
-One of the mathematical modeling methods
+# Mathematical modeling methods
+Used to store and share my modeling methods
